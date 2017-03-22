@@ -1,0 +1,12 @@
+c:\users\alessio\documents\visual studio 2010\Projects\LetMePingThatForYou\LetMePingThatForYou\bin\Debug\LetMePingThatForYou.exe
+c:\users\alessio\documents\visual studio 2010\Projects\LetMePingThatForYou\LetMePingThatForYou\bin\Debug\LetMePingThatForYou.pdb
+c:\users\alessio\documents\visual studio 2010\Projects\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Debug\LetMePingThatForYou.exe
+c:\users\alessio\documents\visual studio 2010\Projects\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Debug\LetMePingThatForYou.pdb
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Debug\LetMePingThatForYou.exe
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Debug\LetMePingThatForYou.pdb
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Debug\LetMePingThatForYou.csprojResolveAssemblyReference.cache
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\bin\Debug\LetMePingThatForYou.exe
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\bin\Debug\LetMePingThatForYou.pdb
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\bin\Debug\LetMePingThatForYou.exe.config
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Debug\LetMePingThatForYou.ProjectInstaller.resources
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Debug\LetMePingThatForYou.csproj.GenerateResource.Cache

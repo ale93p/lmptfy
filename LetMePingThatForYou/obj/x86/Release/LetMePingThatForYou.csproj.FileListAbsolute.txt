@@ -1,0 +1,8 @@
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\bin\Release\LetMePingThatForYou.exe
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\bin\Release\LetMePingThatForYou.pdb
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Release\LetMePingThatForYou.exe
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Release\LetMePingThatForYou.pdb
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\bin\Release\LetMePingThatForYou.exe.config
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Release\LetMePingThatForYou.ProjectInstaller.resources
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Release\LetMePingThatForYou.csproj.GenerateResource.Cache
+C:\Users\Alessio\Desktop\LetMePingThatForYou\LetMePingThatForYou\obj\x86\Release\LetMePingThatForYou.csprojResolveAssemblyReference.cache
