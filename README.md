@@ -5,6 +5,7 @@ LetMePingThatForYou is and old service that I developed for fun in order to chec
 The main idea of the service workflow is:
 * periodically ping an IP address
 * in case of multiple failures send a warning email
+
 The xml configuration file allows to set:
 * multiple IP addresses
 * email configuration (multiple email destination addresses, smtp server, ...)
